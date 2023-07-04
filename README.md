@@ -19,9 +19,9 @@
 
 ## Notes about this tool 
 
-#the Dos script and port scanner will be changed to a more advanced one later on
-#this is a early access for the tool its still under dev
-#the webCrawler isnt in the tool yet
+# the Dos script and port scanner will be changed to a more advanced one later on
+# this is a early access for the tool its still under dev
+# the webCrawler isnt in the tool yet
 #
 
 
