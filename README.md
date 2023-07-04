@@ -19,11 +19,18 @@
 
 ## Notes about this tool 
 
-# the Dos script and port scanner will be changed to a more advanced one later on
-# this is a early access for the tool its still under dev
-# the webCrawler isnt in the tool yet
-#
+> the Dos script and port scanner will be changed to a more advanced one later on
+> this is a early access for the tool its still under dev
+> the webCrawler isnt in the tool yet
+> More tools will be added soon
+> none of the world lists in this tool belongs to me they can be found on the web
 
+### How to install 
+```sh
+git clone https://github.com/dev7knight/WebBugger/
+cd WebBugger
+python3 main.py
+```
 
 ### Preview
 ![image](preview.png)
