@@ -7,4 +7,5 @@
 
 
 ### Preview
-![image]([https://github.com/AsjadOooO/Zero-attacker/blob/Zero-attacker/1.jpg](https://github.com/dev7knight/WebBugger/blob/main/preview.png)https://github.com/dev7knight/WebBugger/blob/main/preview.png)
+![image]()
+
