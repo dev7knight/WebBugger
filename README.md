@@ -14,6 +14,7 @@
 - Subdomain Scanner
 - SubDirectory scanner
 - Admin panel finder
+- Some worldlists for subDirectory and Subdomains
 
 ------------------------------------------------------------------
 
